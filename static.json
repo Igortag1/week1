@@ -3,6 +3,7 @@
 "headers":{
   "/*":
   "X-Author": "gavrilov_igorevents"
+  "Access-Control-Allow-Origin":"*"
 }
   
 }
